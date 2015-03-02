@@ -1,0 +1,26 @@
+{
+  "name": "flex-pay-module",
+  "version": "0.0.1",
+  "description": "verotel flex pay node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AzidoGroup/flex-pay-module.git"
+  },
+  "keywords": [
+    "verotel",
+    "flex",
+    "pay",
+    "credit",
+    "card"
+  ],
+  "author": "hello <hello@azidogroup.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AzidoGroup/flex-pay-module/issues"
+  },
+  "homepage": "https://github.com/AzidoGroup/flex-pay-module"
+}
