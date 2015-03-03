@@ -26,5 +26,8 @@
   "devDependencies": {
     "mocha": "^2.1.0",
     "should": "^5.0.1"
+  },
+  "dependencies": {
+    "validator": "^3.33.0"
   }
 }
