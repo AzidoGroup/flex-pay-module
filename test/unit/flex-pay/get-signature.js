@@ -1,10 +1,4 @@
-var mockconfig = {
-		host: 'http://localhost',
-		auth: {
-			username: 'Authorization',
-			password: 'Token singlesignon'
-		}
-	},
+var mockconfig = {},
 	Flexpay = require('../../../index')(mockconfig).FlexPay,
 	should = require('should');
 
