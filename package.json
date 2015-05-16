@@ -1,6 +1,6 @@
 {
   "name": "verotel-flex-pay",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "verotel flex pay node module",
   "main": "index.js",
   "scripts": {
