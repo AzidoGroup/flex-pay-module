@@ -1,5 +1,5 @@
 {
-  "name": "flex-pay-module",
+  "name": "verotel-flex-pay",
   "version": "0.0.1",
   "description": "verotel flex pay node module",
   "main": "index.js",
@@ -18,6 +18,16 @@
     "card"
   ],
   "author": "hello <hello@azidogroup.com>",
+  "contributors": [
+    {
+      "name": "Alison Boden",
+      "email": "alisonboden@gmail.com"
+    },
+    {
+      "name": "Zeph LaFassett!",
+      "email": "zeph@lafassett.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AzidoGroup/flex-pay-module/issues"
